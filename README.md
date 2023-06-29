@@ -21,19 +21,23 @@ That's where our concept of a Personalized AI, Sapial, comes into play.
 - Javascript middleware
 - Client interface
 
-It has a broad introduction to LLMs and Agents through LangChain and HuggingFace transformers
-It utilizes prompt engineering patterns to enhance response reachness
-It introduces Pinecoin for a short-term and long-term memory management
-It has an accedd to the internet to do a series of research before providing you with solution
-It uses Agents to learn on the provided information and use it to create contexts
-Each prompt is enriched with personallized context
-Every successful tasks or research is recorded and results are stored in memory and always available
-to be reproduced or used for context
+It offers a comprehensive introduction to **LLMs** and **Agents** through [LangChain](https://python.langchain.com/docs/get_started/introduction.html) and [HuggingFace](https://huggingface.co/) transformers.
 
-But more importantly - it's build in a user friendly way so no matter of your experience, you can modify
-Python backend or JS middleware and adapt your client interface easily, almost without digging into the code. 
+It utilizes **prompt engineering patterns** to enhance the richness of the responses.
 
-The system is available to everyone: Python and Javascript Developers, enthusiasts and even low to no-code engineers. 
+It introduces [Pinecoin](https://www.pinecone.io/) for short-term and long-term memory management.
+
+The system has **access to the internet** to conduct a series of research tasks before providing you with a solution.
+
+It employs **Agents** to learn from the information provided and uses this information to create contexts.
+
+Each prompt is enriched with **personalized context**.
+
+Every successful task or piece of research is recorded and the results are **stored in memory**, always available to be reproduced or used for context.
+
+But more importantly, it is built in a **user-friendly way**, so regardless of your experience, you can easily modify the Python backend or JS middleware and adapt your client interface, with little to no need to delve into the code.
+
+The system is available to everyone: **Python** and **JavaScript Developers**, **enthusiasts**, and even those with **little to no coding skills**.
 
 ### Okay this sounds good, but can you actually show me something?
 
