@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/sapial-ai/sapial-ai.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sapial-ai/sapial-ai.github.io/actions/workflows/pages/pages-build-deployment)
+
 ## Introduction to Sapial AI
 
 ### What are the chatGPT limits? Why do we need Sapial AI?
