@@ -2,7 +2,7 @@
 
 ## Introduction to Sapial AI
 
-### What are the chatGPT limits? Why do we need Sapial AI?
+### Why do we need Sapial AI?
 
 The integration of chatGPT into our lives has brought about profound transformations in the ways we interact with technology. Recognized as one of the pioneering AI systems to attain widespread adoption, chatGPT has served diverse roles across our user base. For some, it has emerged as an interactive conversation partner, while others have utilized it as an educational guide. The business sector has exploited its potential as a research tool, and in some cases, it has even superseded traditional internet search engines like Google.
 
